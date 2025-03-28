@@ -7,8 +7,6 @@
       <a href=""><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg"></a>   &nbsp;   <a href="https://github.com/Orang-Orangan-Siber/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/github.svg"></a>
 </p>
 
-<br/>
-
 Orang-Orangan Siber merupakan komunitas kecil yang menampung project open source atau private dari Mahasiswa Universitas Siber Indonesia yang ingin berkolaborasi. Yang bukan mahasiswa siber ga diajak ya
 
 <hr/>
